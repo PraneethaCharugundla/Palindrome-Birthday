@@ -142,6 +142,7 @@ function reverseStr(str) {
     year: 2020
   }
   
+  
   var dateInputRef = document.querySelector("#date-input");
   var showBtnRef = document.querySelector("#show-btn");
   var resultRef = document.querySelector("#result")
